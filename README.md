@@ -1,7 +1,7 @@
 # Hi There, My name is  Abdullah! 👋
 
 
-# Hi there, I'm Hass! 👋
+
 
 Welcome to my GitHub profile. I’m a **musculoskeletal physiotherapist** transitioning into the world of **software development**. Here's a bit about me:
 
